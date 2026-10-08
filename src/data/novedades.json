@@ -1,0 +1,23 @@
+[
+  {
+    "id": "entre_hermanos",
+    "explicacion":"Próximo libro:",
+    "titulo": "Entre hermanos",
+    "subtitulo":"Misma tierra dos banderas",
+    "fecha": "7/10/2026",
+    "categoria": "Próximo Lanzamiento",
+    "resumen": "Desde la calma rural de 1923 hasta la España de la Amnistía en 1977, Entre hermanos. Misma tierra dos banderas narra el itinerario vital de dos amigos de la infancia a los que la historia colocó en bandos opuestos.Tras sobrevivir a la ferocidad del frente y a la fractura de la Guerra Civil, el capitán Diego de Castells y el fugitivo Batiste Ferragut volverán a encontrarse en las tierras de Cullera, donde la crueldad de la posguerra y el amor de María pondrán a prueba los últimos límites del honor. Una apasionante novela que rinde homenaje a quienes sufrieron el horror de la contienda y soñaron con un futuro libre de odio entre hermanos.",
+    "contenido": "Actualmente me encuentro inmerso en la fase de corrección de la nueva obra. Pronto habrá más novedades y la revelación de la portada oficial."
+  },
+
+   {
+    "id": "entre_hermanos2",
+    "explicacion":"Ya está aquí la portada de Entre Hermanos:",
+    "titulo": "Entre hermanos",
+    "subtitulo":"Misma tierra dos banderas",
+    "imagen":"/images/CastellNegro.jpg",
+    "fecha": "10/10/2026",
+    "categoria": "Próximo Lanzamiento",
+    "contenido": "Ya queda menos para el lanzamiento del nuevo libro, espero que os guste"
+  }
+]

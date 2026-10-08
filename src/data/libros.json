@@ -1,0 +1,86 @@
+[
+  {
+    "id": "mi-primera-novela",
+    "titulo": "El Último Amanecer",
+    "subtitulo": "Un thriller vampírico",
+    "genero": "Thriller / Terror",
+    "sinopsisCorta": "El doctor Luther Jacq comparte con cuatro alumnos la reveladora carta de un amigo fallecido. En ella se narra el hallazgo de una puerta sellada en la Segunda Guerra Mundial cuyo contenido desató un horror impensable.",
+    "sinopsisCompleta": "Luther Jacq, doctor en psiquiatría, en su último año como profesor en la Universidad de París, decide hacer partícipes a cuatro de sus alumnos más aventajados de una carta que recibió treinta años antes y que jamás había mostrado a nadie. La carta que le legó su amigo Alexander antes de morir, con el pretexto de solicitar sus opiniones como futuros psiquiatras, va desgranando la lectura de una espantosa experiencia; en ella su amigo le narra el fatal descubrimiento del que fue partícipe, cuando estando combatiendo en la Segunda Guerra Mundial, el destino le llevó junto a sus hombres a un pueblo abandonado, perdido entre las montañas, en el norte de Francia. Creyendo que aquel pueblo podía ser o haber sido un enclave nazi decidieron inspeccionarlo, pero en el sótano de una de las casas hallaron una puerta de hierro cerrada con varias cadenas y sellada a soplete; una anciana la única habitante de aquel recóndito pueblo, intenta hacer todo lo posible por impedir que abran aquella puerta, pero eso alienta más la curiosidad de Alex.\n\nAbrir aquella puerta cambiaría su vida tras ver el horror que encerraba. Jamás volvió a ser el mismo. El miedo, junto con las ganas de venganza, inundaron su existencia e hicieron que se distanciara poco a poco de todos y de todo lo que quería, incluído su amigo Luther, con quien intentó justificar su comportamiento por medio de esta carta, cuando supo que su final estaba cerca, pero lo que el profesor Jacq desconocía, era que al leer aquella carta a sus alumnos también cambiaría la vida de todos los presentes.\n\nUna elegante novela sobre vampiros que necesitan sangre para seguir manteniendo una existencia repleta de horrendos crímenes.",
+    "portadaUrl": "/images/El_ultimo_amanecer.png",
+    "fechaPublicacion": "2020",
+    "paginas": 330,
+    "destacado": true,
+    "muestraLectura": {
+      "pdfUrl": "/docs/El Último Amanecer.pdf",
+      "capitulosIncluidos": "Capítulos 1 al 3"
+    },
+    "enlaces": {
+      "amazon": "https://www.amazon.es/dp/B08D6LYKV8"
+    },
+    "citas": [
+      {
+        "texto": "Muy recomendable. Una gran trama y con mucho ritmo. Me ha encantado",
+        "autor": "Reseña de lector"
+      }
+
+      
+    ]
+  },
+
+  {
+    "id": "mi-segunda-novela",
+    "titulo": "Única Opción",
+    "subtitulo": "Thriller psicológico",
+    "genero": "Thriller / Suspense",
+    "sinopsisCorta": "Un enmascarado secuestra a la familia del exinspector Mario Segni y le exige asesinar a cuatro personas para salvarlos. ¿Hasta dónde serías capaz de llegar para proteger a los tuyos?",
+    "sinopsisCompleta": "Mario Segni, antiguo jefe de homicidios de la comisaría norte de Roma, es asaltado en su coche por un enmascarado, quien le confiesa que acaba de secuestrar a su esposa e hijo. Si desea volver a verlos deberá matar a cuatro personas siguiendo exactamente las reglas del enmascarado.\n\nMatar a un juez, una exitosa abogada, un rico empresario y una psicóloga del Departamento de Policía es el encargo que debe hacer Mario si quiere volver a ver a su familia con vida.\n\nLuca, amigo y antiguo compañero en homicidios de Mario, y ahora inspector jefe se verá inmerso en la persecución de su amigo por evitar los crímenes, sin saber que es a Mario a quien persigue.\n\nLas dudas y los temores invaden a Mario, quien empieza una lucha mental para justificarse que debe matar a esas personas para salvar a su familia, ya que es su única opción.\n\n¿Podrías asesinar a sangre fría a gente inocente para salvar a los tuyos?\n\nThriller psicológico con giros inesperados, rodeado por un escenario inquietante, donde nada es lo que parece."
+,
+    "portadaUrl": "/images/Unica_opcion.png",
+    "fechaPublicacion": "2020",
+    "paginas": 345,
+    "destacado": true,
+    "muestraLectura": {
+      "pdfUrl": "/docs/Unica Opción.pdf",
+      "capitulosIncluidos": "Capítulos 1 al 3"
+    },
+    "enlaces": {
+      "amazon": "https://www.amazon.es/%C3%9Anica-opci%C3%B3n-David-Ferrer-Sapi%C3%B1a-ebook/dp/B08FZCQLDG"
+    },
+    "citas": [
+      {
+        "texto": "Una historia absorbente que mantiene la tensión hasta la última página.",
+        "autor": "Reseña de lector"
+      }
+
+      
+    ]
+  },
+
+  {
+    "id": "mi-tercera-novela",
+    "titulo": "El Último Amanecer",
+    "subtitulo": "El clan de París",
+    "genero": "Thriller / Vampirico",
+    "sinopsisCorta": "Natasha lucha por mantener el control del clan de París mientras Marie intenta escapar de sus garras con la ayuda del jefe de homicidios de París. Una adictiva secuela que combina investigación policial y horror vampírico.",
+    "sinopsisCompleta": "Segunda parte de El último amanecer. Tras lo acontecido en el primer libro, esta apasionante entrega desentraña lo ocurrido después de su intrigante final.\n\nNatasha es la nueva Maestra del clan de París, y nos narra sus luchas sin miramientos por defender su posición contra nuevos vampiros sin escrúpulos. Nos relata lo ocurrido con Marie, la hija del doctor Luther Jacq, y su lucha por escapar de las garras de Natasha y su clan junto a su prometido Charles, ayudados por Bastian, el nuevo jefe de homicidios de París. Nada más se debe decir para no desvelar los giros de la primera novela a quienes todavía no se hayan atrevido a leerla.\n\nUna adictiva novela que no podrás dejar de leer, que entrelaza la investigación policial con el apasionante mundo vampírico y que hará que mires varias veces a tu alrededor antes de apagar la luz para acostarte.",
+    "portadaUrl": "/images/Clan de París.png",
+    "fechaPublicacion": "2022",
+    "paginas": 552,
+    "destacado": true,
+    "muestraLectura": {
+      "pdfUrl": "/docs/UA Clan De París.pdf",
+      "capitulosIncluidos": "Capítulos 1 al 3"
+    },
+    "enlaces": {
+      "amazon": "https://www.amazon.es/El-%C3%BAltimo-amanecer-clan-Par%C3%ADs-ebook/dp/B0BHW71GBH"
+    },
+    "citas": [
+      {
+        "texto": "Una historia absorbente que mantiene la tensión hasta la última página.",
+        "autor": "Reseña de lector"
+      }
+
+      
+    ]
+  }
+]
