@@ -5,7 +5,7 @@
     "idioma": "Castellano",
     "tiempoLectura": "7 min",
     "fecha": "2026-10-10",
-    "resumen": "Un joven artista fallero alcanza el sueño de su vida al crear el ninot indultado de la sección especial de Valencia basándose en un viejo retrato familiar, sin sospechar el oscuro secreto que escondía la fotografía.",
+    "resumen": "Un joven artista fallero alcanza el sueño de su vida al crear el ninot indultado de la sección especial de Valencia basándose en un viejo retrato familiar, sin sospechar el oscuro secreto que esconde.",
     "contenido": [
       "Vicent era un joven de treinta años; aunque sus raíces no eran puramente valencianas, se sentía tan valenciano como el que más. Y así lo demostraba cada vez que podía, tal y como reflejaba el trabajo que había escogido.",
       "Desde muy pequeño ya soñaba con ser algún día artista fallero. Todos los muñecos que sus familiares le regalaban acababa apilándolos unos encima de otros. El mismo final tenían los coches, las sillas del comedor e incluso las perfectas muñecas de su hermana. Muchos gritos se había llevado Vicent por su pasión de plantar cara a la gravedad. Lucha que muchas veces había perdido, y bien lo sabían las figuritas y los jarrones de su madre, así como sus nalgas.",
@@ -233,6 +233,41 @@
       "Vas a ser dels que sumen o dels que només resten perquè ells ja han pagat la quota? I els altres també l’han pagada, no sigues borinot. Vas a ser dels que agarren la granera o dels que només vénen a ballar? Vas a deixar-me parlar a temps, o hauré de tornar l'any que ve, en esta mateixa nit, a fer-te el mateix judici davant de les cendres?",
       "Tu decideixes. Jo estaré ací. Perquè podràs enganyar al president, podràs enganyar als teus amics de borratxera, podràs posar totes les excuses del món al grup de WhatsApp... però a mi, campeón/a, a mi no em pots enganyar.",
       "Sóc la teua consciència. I l'exercici que ve, et jure que estaré molt més atenta. Ens veiem a la pròxima junta!"
+    ]
+  },
+
+  {
+    "id": "desenmascarado",
+    "titulo": "Desenmascarado",
+    "idioma": "Castellano",
+    "tiempoLectura": "6 min",
+    "fecha": "2026-10-10",
+    "resumen": "En medio de una fastuosa fiesta de máscaras, un atractivo multimillonario es abordado por una misteriosa mujer de rojo, pero no lleva las intenciones que él cree.",
+    "contenido": [
+      "La música de cámara flotaba entre las inmensas columnas de mármol de la mansión, mezclándose con la risa de trescientos invitados que ocultaban sus rostros tras encajes, plumas y oro. Era el cincuenta cumpleaños de Julián, aunque cualquiera habría jurado que apenas pasaba de los treinta. Su piel carecía de arrugas; su magnetismo, intacto; su imperio financiero, inalcanzable.",
+      "El alcalde, concejales de peso y las fortunas más grandes de la ciudad abarrotaban sus salones en aquella fastuosa fiesta de máscaras. Julián, el hombre hecho a sí mismo, el soltero de oro que siempre se rodeaba de las mujeres más bellas, observaba su reino con la autosuficiencia de quien se sabe intocable.",
+      "Pero entonces la vio.",
+      "Destacaba como una herida abierta entre la multitud. Era una mujer de una presencia descomunal, de pelo rubio colgando sobre su espalda descubierta, vestida con un terciopelo rojo tan intenso que parecía absorber la luz, y una máscara de encaje negro que cubría por completo sus facciones. No bailaba, no conversaba, no bebía. Solo le miraba a él. Sus ojos, tras los orificios oscuros de la máscara, le seguían con una fijeza que empezó a resultarle inquietante y, a la vez, extrañamente atrayente.",
+      "Tras la cena, cuando la orquesta dio paso al baile, Julián decidió hacer lo que siempre hacía: dominar la situación. Se abrió paso entre los invitados, sorteando máscaras de arlequines y deidades, hasta quedar frente a ella.",
+      "—Una noche tan magnífica merece un brindis en privado, ¿no crees? —le susurró, con su habitual sonrisa de conquistador—. Lejos de todo este ruido.",
+      "Ella no respondió; solo asintió levemente con la cabeza. Su silencio, lejos de disuadirle, encendió su vanidad.",
+      "La guió a través de los pasillos de la planta superior hasta su reservado personal: una inmensa estancia de techos altos que albergaba un jacuzzi de piedra, un sofá-cama de dimensiones colosales y una barra de bar privada frente a una estantería que parecía una biblioteca de licores caros de todo el mundo.",
+      "—¿Qué te apetece tomar? —preguntó él, cruzando tras la barra con soltura.",
+      "Ella, con una voz que pareció vibrar en las paredes sin que su boca se moviera del todo, pronunció una sola palabra:",
+      "—Ginebra.",
+      "Julián asintió y se sirvió su habitual whisky con agua. Se movía con la confianza de quien ha repetido esa misma escena cientos de veces, con decenas de mujeres distintas, en esa misma habitación. Se acercó a ella, que permanecía de pie, inmóvil como una estatua de sangre y sombra. Julián empezó a hablar, desplegando el carisma que le había abierto todas las puertas del mundo: halagos medidos, promesas implícitas, esa cercanía física que siempre desarmaba a sus conquistas.",
+      "Se acortó la distancia. El aroma de ella era atrayente, nublaba los sentidos. Julián se inclinó para besarla, buscando el borde de la máscara negra.",
+      "Pero ella levantó una mano. No fue un empujón; simplemente posó un único dedo sobre la frente de Julián.",
+      "El contacto fue como recibir una descarga de agua helada que le atravesó el cráneo. El mundo a su alrededor —el reservado, el lujo, la música que vibraba a lo lejos— se desvaneció por completo, y una marea de recuerdos que creía enterrados para siempre inundó su mente con la violencia de un naufragio.",
+      "Se vio a sí mismo treinta años atrás. Tenía veinte años y era una piltrafa humana, desahuciado por sus padres, abandonado por todos, enganchado al alcohol y a las drogas. Estaba tirado en un callejón infecto, tiritando bajo una lluvia fina, borracho, sin un solo céntimo en los bolsillos, esperando una muerte que parecía inminente.",
+      "Y entonces, los pasos. Unos pasos fuertes, pesados, que retumbaban en el callejón como si el propio suelo se quebrara. Un hombre con una impecable gabardina roja se había detenido ante él, observándolo desde las sombras. Su voz había sonado áspera, tentadora: «Te compro tu alma por toda una vida de juventud, prosperidad y éxito». Y Julián, entre carcajadas rotas por la fiebre y la desesperación de quien no tiene nada que perder, había respondido: «Hecho. Llévatela, es toda tuya».",
+      "El recuerdo se cortó en seco.",
+      "Julián dio un traspié hacia atrás, jadeando, con los ojos desorbitados y el sudor frío empapándole la frente. Miró a la mujer del vestido rojo.",
+      "—No... no es posible —balbuceó, buscando a ciegas el borde de la barra para no caerse—. Mi trato fue con él. El cobro era a mi muerte... ¡No puedes ser tú!",
+      "La mujer se llevó las manos a la nuca y desabrochó despacio la máscara negra. Cuando el encaje cayó al suelo, Julián no vio pezuñas ni fuego, sino unos ojos humanos consumidos por un odio antiguo y helado.",
+      "—No sé nada de tu acuerdo, solo vengo a satisfacer el mío —dijo ella, con una calma que daba más miedo que cualquier grito—. ¿Te acuerdas de la textil Alarcón? Los arruinaste para comprar sus acciones por una miseria porque no querías competencia en esta ciudad; los echaste a la calle y te quedaste con todo. Mi padre se colgó en el garaje cuando iban a apresarlo por impagos. Mi madre nunca volvió a ser la misma. Yo tenía doce años.",
+      "Julián sintió cómo el corazón le golpeaba con violencia contra las costillas. Quiso gritar, correr, pero su cuerpo estaba paralizado por completo.",
+      "—Yo también hice mi propio trato —continuó ella, dando un paso lento hacia él mientras deslizaba una hoja metálica y fina de entre los pliegues del vestido rojo—. Pedí una sola cosa a cambio de la mía: la oportunidad de enviarte al infierno con mis propias manos. Dale recuerdos y las gracias de mi parte."
     ]
   },
 
