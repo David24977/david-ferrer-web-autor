@@ -58,3 +58,13 @@ export interface Autor {
     linkedin?: string;
   };
 }
+
+export interface Relato {
+  id: string; // ej: "el-batec-del-foc"
+  titulo: string;
+  idioma: string; // "Valencià" | "Castellano"
+  tiempoLectura: string; // "4 min"
+  fecha: string; // "2026-03-15"
+  resumen: string;
+  contenido: string[]; // Arreglo de párrafos
+}

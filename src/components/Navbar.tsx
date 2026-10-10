@@ -1,7 +1,7 @@
 // src/components/Navbar.tsx
 import { useState } from 'react';
 import { NavLink } from 'react-router-dom';
-import { BookOpen, Newspaper, User, Home, Menu, X } from 'lucide-react';
+import { BookOpen, Newspaper, User, Home, Feather, Menu, X } from 'lucide-react';
 import ThemeToggle from './ThemeToggle';
 
 export default function Navbar() {
@@ -20,7 +20,7 @@ export default function Navbar() {
         <div className="flex items-center justify-between h-16">
           
           {/* Logo */}
-          <NavLink to="/" className="text-l font-bold tracking-wider text-600 dark:tex-white hover:text-orange-500 dark:hover:text-red-700 transition-colors">
+          <NavLink to="/" className="text-l font-bold tracking-wider text-slate-800 dark:text-white hover:text-orange-500 dark:hover:text-amber-400 transition-colors">
             David Ferrer Sapiña
           </NavLink>
 
@@ -33,6 +33,10 @@ export default function Navbar() {
             <NavLink to="/libros" className={navLinkClass}>
               <BookOpen className="w-4 h-4" />
               Libros
+            </NavLink>
+            <NavLink to="/relatos" className={navLinkClass}>
+              <Feather className="w-4 h-4" />
+              Relatos
             </NavLink>
             <NavLink to="/novedades" className={navLinkClass}>
               <Newspaper className="w-4 h-4" />
@@ -47,7 +51,7 @@ export default function Navbar() {
             </div>
           </div>
 
-          {/* Móvil: Botón Tema + Hamburgesa */}
+          {/* Móvil: Botón Tema + Hamburguesa */}
           <div className="flex items-center gap-2 md:hidden">
             <ThemeToggle />
             <button
@@ -70,6 +74,10 @@ export default function Navbar() {
             <NavLink to="/libros" onClick={() => setIsOpen(false)} className={navLinkClass}>
               <BookOpen className="w-4 h-4" />
               Libros
+            </NavLink>
+            <NavLink to="/relatos" onClick={() => setIsOpen(false)} className={navLinkClass}>
+              <Feather className="w-4 h-4" />
+              Relatos
             </NavLink>
             <NavLink to="/novedades" onClick={() => setIsOpen(false)} className={navLinkClass}>
               <Newspaper className="w-4 h-4" />
