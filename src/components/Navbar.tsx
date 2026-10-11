@@ -25,7 +25,7 @@ export default function Navbar() {
             className="flex items-center gap-3 text-slate-800 dark:text-white hover:text-orange-500 dark:hover:text-amber-400 transition-colors group"
           >
             <img 
-              src="/image/logo-dfs.jpg" 
+              src="/logo-dfs.jpg" 
               alt="Logo DFS" 
               className="w-9 h-9 rounded-lg object-cover shadow-sm transition-transform group-hover:scale-105"
             />
