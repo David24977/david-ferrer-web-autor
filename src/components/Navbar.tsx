@@ -19,9 +19,19 @@ export default function Navbar() {
       <div className="container mx-auto px-4">
         <div className="flex items-center justify-between h-16">
           
-          {/* Logo */}
-          <NavLink to="/" className="text-l font-bold tracking-wider text-slate-800 dark:text-white hover:text-orange-500 dark:hover:text-amber-400 transition-colors">
-            David Ferrer Sapiña
+          {/* Logo + Nombre */}
+          <NavLink 
+            to="/" 
+            className="flex items-center gap-3 text-slate-800 dark:text-white hover:text-orange-500 dark:hover:text-amber-400 transition-colors group"
+          >
+            <img 
+              src="logo-dfs.jpg" 
+              alt="Logo DFS" 
+              className="w-9 h-9 rounded-lg object-cover shadow-sm transition-transform group-hover:scale-105"
+            />
+            <span className="font-bold tracking-wider text-base md:text-lg">
+              David Ferrer Sapiña
+            </span>
           </NavLink>
 
           {/* Menú Escritorio + Botón Tema */}

@@ -12,17 +12,24 @@ export default function Footer() {
     <footer className="bg-slate-100 dark:bg-slate-900/90 border-t border-slate-200 dark:border-slate-800 text-slate-600 dark:text-slate-400 py-8 transition-colors">
       <div className="container mx-auto px-4 flex flex-col sm:flex-row items-center justify-between gap-4">
         
-        {/* Nombre y Nombre de Autor + Copyright */}
-        <div className="text-center sm:text-left space-y-1">
-          <p className="text-base sm:text-lg font-bold text-slate-900 dark:text-slate-200 tracking-wide">
-            {autor.nombre}{" "}
-            <span className="text-orange-600 dark:text-amber-400 font-normal">
-              Ferrer Sapiña
-            </span>
-          </p>
-          <p className="text-xs text-slate-500 dark:text-slate-500">
-            © {year} Todos los derechos reservados.
-          </p>
+        {/* Logo, Nombre de Autor y Copyright */}
+        <div className="flex items-center gap-3 text-center sm:text-left">
+          <img 
+            src="/logo-dfs.jpg" 
+            alt="Logo DFS" 
+            className="w-10 h-10 rounded-lg object-cover shadow-sm border border-slate-200 dark:border-slate-700/60"
+          />
+          <div className="space-y-0.5">
+            <p className="text-base sm:text-lg font-bold text-slate-900 dark:text-slate-200 tracking-wide">
+              {autor.nombre}{" "}
+              <span className="text-orange-600 dark:text-amber-400 font-normal">
+                Ferrer Sapiña
+              </span>
+            </p>
+            <p className="text-xs text-slate-500 dark:text-slate-500">
+              © {year} Todos los derechos reservados.
+            </p>
+          </div>
         </div>
 
         {/* Bloque de Contacto y Redes (Condicional) */}
