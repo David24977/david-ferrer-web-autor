@@ -10,6 +10,7 @@ import NovedadesPage from "./pages/NovedadesPage";
 import SobreMiPage from "./pages/SobreMiPage";
 import RelatosPage from "./pages/RelatosPage";
 import RelatoDetallePage from "./pages/RelatosDetallePage";
+import { Analytics } from '@vercel/analytics/react';
 
 function App() {
   return (
@@ -31,6 +32,7 @@ function App() {
           </main>
 
           <Footer />
+          <Analytics/>
         </div>
       </BrowserRouter>
     </ThemeProvider>
